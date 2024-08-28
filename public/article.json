@@ -1,0 +1,40 @@
+{
+  "articles": [
+    {
+      "number": "12",
+      "title": "Definition of State",
+      "explanation": "Article 12 says that the government is considered a 'state' and includes all government agencies and officials. Think of it as saying, 'The government and its parts are all in this big team!'",
+      "example": "If you have a problem with a government office or a school that’s run by the government, Article 12 means you can ask for help or justice because they are all part of this big government team."
+    },
+    {
+      "number": "21",
+      "title": "Right to Life and Personal Liberty",
+      "explanation": "Article 21 guarantees that everyone has the right to live freely and make their own choices as long as they don’t harm others. It's like saying, 'You get to live your life as you want, but you need to be respectful of others.'",
+      "example": "Imagine you want to start a new hobby or move to a different city. Article 21 says you can do those things, as long as you follow the rules and don’t hurt anyone."
+    },
+    {
+      "number": "44",
+      "title": "Uniform Civil Code",
+      "explanation": "Article 44 suggests that everyone should be treated the same under one set of laws, no matter what religion or community they belong to. It’s like having one set of school rules that everyone follows, no matter which class they are in.",
+      "example": "If you’re in a class where everyone has to follow the same rules about homework, Article 44 is like saying, 'Everyone, no matter where they come from, should follow the same laws.'"
+    },
+    {
+      "number": "50",
+      "title": "Separation of Judiciary from Executive",
+      "explanation": "Article 50 says that the courts and judges should be separate from government officials who run things like schools or police. Think of it as saying, 'Keep the people who decide the rules separate from the people who enforce them!'",
+      "example": "If you have a dispute and go to court, the judge should not be the same person who runs your local police station. This separation helps keep everything fair and unbiased."
+    },
+    {
+      "number": "72",
+      "title": "Pardoning Powers of the President",
+      "explanation": "Article 72 allows the President to forgive people who have been convicted of crimes, like giving them a second chance. It’s like saying, 'The President can sometimes give people a fresh start if they’ve made a mistake.'",
+      "example": "If someone made a big mistake in the past and is now trying to make things right, the President can decide to forgive them and remove their punishment. It’s a way to offer people a chance to improve."
+    },
+    {
+      "number": "79",
+      "title": "Constitution of Parliament",
+      "explanation": "Article 79 talks about how the Indian Parliament is made up of two parts: the Lok Sabha (House of the People) and the Rajya Sabha (Council of States). Think of it as a big team with two groups working together to make laws.",
+      "example": "Imagine your school has a student council and a teachers' committee. Article 79 is like saying, 'India’s Parliament works like this: there are two groups that help make decisions, just like your school has two groups working together.'"
+    }
+  ]
+}
